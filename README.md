@@ -12,13 +12,13 @@ As informações são alocadas de forma indicada em "modelos"
 
 <h3>categoria</h3>
 
-  - utiliza as categorias de informação para alocar em receitas
+   utiliza as categorias de informação para alocar em receitas
 
   * pk_categoria: utiliza as categorias aceitas
 
 <h3>receita</h3>
 
-  - aqui são alocadas as informações da receita
+   aqui são alocadas as informações da receita
 
   * id: indentificação da receita
   * apresentacao: uma descrição da receita
@@ -30,6 +30,16 @@ As informações são alocadas de forma indicada em "modelos"
 
 <h3>usuario</h3>
 
-  - aqui são alocadas as informações so usuario
+   aqui são alocadas as informações so usuario
 
-  *
+  * nome: nome do usuario
+  * sobenome: sobrenome do usuario
+  * email: email do usuario para login
+  * senha: senha para o login
+  * telefone: numero de telefone
+  * cpf: informação do documento do usuario
+  * usuario: o "@" do usuario
+  * sobre: informação do usuario como uma bio
+
+  <h3>*img*</h3>
+  em img é feito a alocação e recsição da imagem informada em receita, la se encontra a recsição do banco e a forma que é alocado
