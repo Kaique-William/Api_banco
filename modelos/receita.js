@@ -52,8 +52,9 @@ const receitas = mongoose.Schema({
          required: true
     },
     
-    imagem:{
-        type: String,                 //imagem da receita
+     imagem:{
+        type: mongoose.SchemaTypes.ObjectId,
+        ref:'Imagem',     //imagem da receita
         required: false
     },
 
