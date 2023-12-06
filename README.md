@@ -8,7 +8,28 @@ azure: recebe as imagens
 
 <h2>RESPOSTA</h2>
 
-As informações são alocadas de forma indicada no "modelos"
+As informações são alocadas de forma indicada em "modelos"
 
 <h3>categoria</h3>
-` pk_categoria ` : utiliza as categorias aceitas
+
+  - utiliza as categorias de informação para alocar em receitas
+
+  * pk_categoria: utiliza as categorias aceitas
+
+<h3>receita</h3>
+
+  - aqui são alocadas as informações da receita
+
+  * id: indentificação da receita
+  * apresentacao: uma descrição da receita
+  * tempo_preparo: o tempo para finalizar a receita
+  * ingredientes: informa os ingrdientes usados
+  * modo_de_preparo: passo a passo do preparo
+  * imagem: imagem da receita (traz as informações do arquivo imagem)
+  * categoria: tipo de receita (traz as informações de categoria)
+
+<h3>usuario</h3>
+
+  - aqui são alocadas as informações so usuario
+
+  *
