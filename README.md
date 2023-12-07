@@ -1,4 +1,4 @@
-<H2>DESCRIÇãO</H2>
+<H2>DESCRIÇÃO</H2>
 Esta api tem como função conectar o banco a aplicação, em forma de campo, sendo assim não tem uma chamada especifica, mas os campos de uso. Nesta api temos a pasta "modelos", onde há os modelos de inserção de dados, junto dos tipos dos dados que hão de ser inseridos.
 Há tambem na pasta rotas, o arquivo "img", que sua função é faser inserção de imagens em um outro banco.
 
