@@ -49,4 +49,4 @@ As informações são alocadas de forma indicada em "modelos"
 
 <h2>url</h2>
 Caso não queira usar esse serviço na sua máquina local, você pode utilizar está API que já está na nuvem. A base URL para todas as requisições da API é:
-[base URL](https://sore-gray-dolphin-cape.cyclic.app/) 
+[base URL](https://vast-flannel-nightgown-fish.cyclic.cloud) 
