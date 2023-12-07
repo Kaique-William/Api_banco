@@ -46,7 +46,3 @@ As informações são alocadas de forma indicada em "modelos"
 
   <h2>Diretrizes</h2>
   A plataforma possui uma média de pedidos por hora, então atenção ao executá-los, são aproximadamente 10 solicitações autorizadas em 10 minutos. Se ultrapassar esse limite você está vulnerável a complicações no recebimento das informações.
-
-<h2>url</h2>
-Caso não queira usar esse serviço na sua máquina local, você pode utilizar está API que já está na nuvem. A base URL para todas as requisições da API é:
-(https://sore-gray-dolphin-cape.cyclic.app/) 
